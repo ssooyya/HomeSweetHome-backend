@@ -63,15 +63,11 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### Frontend  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Database  
-![AmazonRDS](https://img.shields.io/badge/AmazonRDS-4285F4?style=for-the-badge)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-ECD53F?style=for-the-badge)
 
 ### Infrastructure  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -113,6 +109,25 @@
 ### 📕 물리 모델링  
 
 ### 🖌️ 화면 설계서  
+[정산]
+- 일별조회
+<img width="1477" height="1095" alt="일별 조회" src="https://github.com/user-attachments/assets/41c08524-fcd4-4b40-9e1b-4ac42aa5dceb" />
+- 주별 조회
+<img width="1457" height="1079" alt="주별 조회" src="https://github.com/user-attachments/assets/b811001f-4dde-4b28-bd05-881c23522c61" />
+- 월별 조회
+<img width="1437" height="1079" alt="월별 조회" src="https://github.com/user-attachments/assets/9e791ffb-f37c-4974-af69-9354d9d12690" />
+- 연별 조회
+<img width="1417" height="1079" alt="연별 조회" src="https://github.com/user-attachments/assets/9c84a58e-0057-4346-8adb-d03c4e759b4b" />
+- 주별 조회 - 일별 내역
+<img width="1337" height="1096" alt="주별 상세내역-일별내역" src="https://github.com/user-attachments/assets/ff6a5260-86c1-4bbb-9bf3-21a834ddfba0" />
+
+
+- 월별 조회 - 주별 내역
+<img width="1337" height="1080" alt="월별 상세내역-주별내역" src="https://github.com/user-attachments/assets/4aa635f6-5ef6-4c3f-b6e0-a8ff17cfa82b" />
+
+- 날짜 범위 선택
+<img width="1492" height="1190" alt="날짜범위 선택" src="https://github.com/user-attachments/assets/9a07de5a-dee8-40ec-98fe-715afa7593e0" />
+
 
 ### 🧪 테스트 케이스  
 
